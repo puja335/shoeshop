@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "517378528558",
+    "firebase_url": "https://food-app-3eecb-default-rtdb.firebaseio.com",
+    "project_id": "food-app-3eecb",
+    "storage_bucket": "food-app-3eecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517378528558:android:e54703f9fef70beea5d6bf",
+        "android_client_info": {
+          "package_name": "com.example.food_apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517378528558-r5ho5mcmcf6ntja28adt23gdj00cl0ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_apk",
+            "certificate_hash": "07edaf1421b015f4ad1032f974763e132e796327"
+          }
+        },
+        {
+          "client_id": "517378528558-qfi2iiid4mnjlt4krid5usugvqh5e3b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy7GiVISsBcHFt2f_8A0Q7rJSwFAkbos8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517378528558-dbgq4l1ra55s7t87q7us8om101iekuv9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517378528558-f6ovrakb7jndh0au0hldmocfknn31hrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodApk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517378528558:android:67ea602740cfdbcda5d6bf",
+        "android_client_info": {
+          "package_name": "com.example.myshoesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517378528558-5djhi5e08ske9bopa4gm4trlqhtg4091.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myshoesapp",
+            "certificate_hash": "07edaf1421b015f4ad1032f974763e132e796327"
+          }
+        },
+        {
+          "client_id": "517378528558-qfi2iiid4mnjlt4krid5usugvqh5e3b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy7GiVISsBcHFt2f_8A0Q7rJSwFAkbos8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517378528558-dbgq4l1ra55s7t87q7us8om101iekuv9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517378528558-f6ovrakb7jndh0au0hldmocfknn31hrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodApk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
